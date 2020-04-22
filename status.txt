@@ -1,5 +1,5 @@
-renew
-第二行如果stop
+ren2ew
+第二行如果s2top
 第三行sleep的秒数。
 
 
